@@ -1,0 +1,2 @@
+pytest Testtask.py
+pause
